@@ -1,0 +1,14 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{margin:0;}
+.frmat{ clear:both;width:595px; height:912px; background-color:#ccc; margin:0 auto 0 auto;font-family:"Times New Roman", Times, serif; font-size:14px; padding:7px;}
+.heading{ font-size:24px;border-bottom:1px solid #000; text-align:center;}
+.subheading{font-size:22px;}
+.btch{font-size:22px;}
+.det{font-size:18px;}
+.topic{font-size:22px; text-align:left; text-decoration:underline;}
+.footer_main{width:595px; height:auto; margin:0 auto 0 auto;font-family:"Times New Roman", Times, serif; font-size:14px; padding:7px;} 
+.split{width:595px; height:auto;}
+.footer1{ width:290px;   float:left; margin:0;}
+.footer2{   float:right; width:290px;  margin:0; text-align:right; }
